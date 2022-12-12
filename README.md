@@ -20,6 +20,6 @@ Practising data science file structure and version controle use by making a mode
   - train_model.py
   - visualize.py
   
-  #License
+  # License
   Wait what?
   
